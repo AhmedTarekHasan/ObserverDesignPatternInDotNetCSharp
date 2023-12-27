@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/observer-design-pattern-in-net-c-55633462f18e?sk=1362e513c0a814acfadca68af9596d3b" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/observer-design-pattern-in-net-c" />
 
 # Observer Design Pattern in .NET C#
 ### Learn about the Observer Design Pattern in .NET C# with some enhancements.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*3hR3XW3r2YaVJdGRPF4jcw.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_773139ab3e2a47faac73213ef5a516b5~mv2.png">
 </p>
 
 <br/>
@@ -62,4 +62,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/observer-design-pattern-in-net-c-55633462f18e?sk=1362e513c0a814acfadca68af9596d3b
+[Article]: https://www.developmentsimplyput.com/post/observer-design-pattern-in-net-c
